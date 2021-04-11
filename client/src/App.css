@@ -1,0 +1,47 @@
+.card {
+  display: block;
+  margin: 30px;
+}
+
+.render-chat {
+  height: 500px;
+  width: 350px;
+  border: solid 1px black;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+form {
+  width: 350px;
+  border: solid 1px black;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.message-field{
+  padding: 10px;
+  background: transparent;
+  border-radius: 5px;
+}
+
+.name-field {
+  padding: 10px;
+  background: transparent;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #424242;
+  color: #fff;
+  width: 100%;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+h3 {
+  color: #2f72da;
+}
+
+span {
+  color: black;
+}
