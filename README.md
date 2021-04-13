@@ -12,6 +12,7 @@ https://github.com/ukcasso/socket.io-test.git
 
 ### `npm install`
 프로젝트를 다운로드 혹은 clone 하신 후 아래 명령어를 통해 package.json에 기록되어 있는 라이브러리들을 다운로드 하시면 됩니다.
+
 *client, server 폴더에서 모두 `npm install` 해주셔야합니다.
 
 ### `npm start`
